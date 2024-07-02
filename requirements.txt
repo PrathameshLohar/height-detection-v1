@@ -1,0 +1,6 @@
+opencv-python-headless
+mediapipe
+playsound
+numpy
+pyttsx3
+pygame
